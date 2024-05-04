@@ -1,10 +1,10 @@
 # BI-Driven-Motor-Vehicle-Collision-Analysis
 
-#### Tools used:
-Alteryx and Y data profile - Data Profiling
+### Tools used:
+**Alteryx and Y data profile** - Data Profiling
 
-SSMS - Database management
+**SSMS** - Database management
 
-Talend - Load Stg, Dim, and Fact tables
+**Talend** - ETL Jobs, Load Stg, Dim, and Fact tables
 
-Power BI and Tableau - Data visualization
+**Power BI and Tableau** - Visualization
